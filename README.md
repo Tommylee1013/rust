@@ -1,2 +1,3 @@
-# rust
-rust playground
+## Rust
+
+Rust playground
